@@ -9,3 +9,5 @@
 ![Student Registration Form](https://github.com/krishmurarka/Brush-Up-HTML/assets/64781854/f863282b-1d5d-4c9b-83b4-62d422099f5c)
 
 ## Project 3: Basic School Time-Table
+
+![Time Table]()
