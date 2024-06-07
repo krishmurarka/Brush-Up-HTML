@@ -10,4 +10,4 @@
 
 ## Project 3: Basic School Time-Table
 
-![Time Table]()
+![time-table](https://github.com/krishmurarka/Brush-Up-HTML/assets/64781854/16084877-1e55-4459-b7cc-e656046bc663)
