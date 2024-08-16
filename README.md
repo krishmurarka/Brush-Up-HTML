@@ -1,4 +1,4 @@
-# Brush-Up HTML
+# Brush-Up HTML, CSS &  JS
 
 ## Project 1: Palantir Portal
 
